@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\MovieSeats\bin\Debug\MovieSeats.exe.config
+D:\Capgemini .NET\Assignments\MovieSeats\bin\Debug\MovieSeats.exe
+D:\Capgemini .NET\Assignments\MovieSeats\bin\Debug\MovieSeats.pdb
+D:\Capgemini .NET\Assignments\MovieSeats\obj\Debug\MovieSeats.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\MovieSeats\obj\Debug\MovieSeats.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\MovieSeats\obj\Debug\MovieSeats.exe
+D:\Capgemini .NET\Assignments\MovieSeats\obj\Debug\MovieSeats.pdb

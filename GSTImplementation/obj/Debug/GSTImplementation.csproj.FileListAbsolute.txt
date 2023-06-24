@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\GSTImplementation\obj\Debug\GSTImplementation.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\GSTImplementation\obj\Debug\GSTImplementation.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\GSTImplementation\obj\Debug\GSTImplementation.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\GSTImplementation\bin\Debug\GSTImplementation.exe.config
+D:\Capgemini .NET\OOP\GSTImplementation\bin\Debug\GSTImplementation.exe
+D:\Capgemini .NET\OOP\GSTImplementation\bin\Debug\GSTImplementation.pdb
+D:\Capgemini .NET\OOP\GSTImplementation\obj\Debug\GSTImplementation.exe
+D:\Capgemini .NET\OOP\GSTImplementation\obj\Debug\GSTImplementation.pdb

@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+D:\Capgemini .NET\Assignments\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+D:\Capgemini .NET\Assignments\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+D:\Capgemini .NET\Assignments\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+D:\Capgemini .NET\Assignments\EmployeeDetails\obj\Debug\EmployeeDetails.pdb

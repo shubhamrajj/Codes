@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\CreditBill\obj\Debug\CreditBill.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\CreditBill\obj\Debug\CreditBill.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\CreditBill\bin\Debug\CreditBill.exe.config
+D:\Capgemini .NET\CSProjects\CreditBill\bin\Debug\CreditBill.exe
+D:\Capgemini .NET\CSProjects\CreditBill\bin\Debug\CreditBill.pdb
+D:\Capgemini .NET\CSProjects\CreditBill\obj\Debug\CreditBill.exe
+D:\Capgemini .NET\CSProjects\CreditBill\obj\Debug\CreditBill.pdb
+D:\Capgemini .NET\CSProjects\CreditBill\obj\Debug\CreditBill.csproj.AssemblyReference.cache

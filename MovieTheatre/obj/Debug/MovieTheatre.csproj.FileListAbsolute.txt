@@ -1,0 +1,7 @@
+D:\Capgemini .NET\CSProjects\MovieTheatre\bin\Debug\MovieTheatre.exe.config
+D:\Capgemini .NET\CSProjects\MovieTheatre\bin\Debug\MovieTheatre.exe
+D:\Capgemini .NET\CSProjects\MovieTheatre\bin\Debug\MovieTheatre.pdb
+D:\Capgemini .NET\CSProjects\MovieTheatre\obj\Debug\MovieTheatre.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\MovieTheatre\obj\Debug\MovieTheatre.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\MovieTheatre\obj\Debug\MovieTheatre.exe
+D:\Capgemini .NET\CSProjects\MovieTheatre\obj\Debug\MovieTheatre.pdb

@@ -1,0 +1,13 @@
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\EntityFramework.dll
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\EntityFramework.xml
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+D:\Capgemini .NET\EntityFrameworkDemo\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

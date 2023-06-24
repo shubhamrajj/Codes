@@ -1,0 +1,8 @@
+D:\Capgemini .NET\Assignments\Sample\bin\Debug\Sample.exe.config
+D:\Capgemini .NET\Assignments\Sample\bin\Debug\Sample.exe
+D:\Capgemini .NET\Assignments\Sample\bin\Debug\Sample.pdb
+D:\Capgemini .NET\Assignments\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+D:\Capgemini .NET\Assignments\Sample\obj\Debug\Sample.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\Sample\obj\Debug\Sample.exe
+D:\Capgemini .NET\Assignments\Sample\obj\Debug\Sample.pdb

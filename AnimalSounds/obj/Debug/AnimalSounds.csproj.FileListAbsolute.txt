@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+D:\Capgemini .NET\Assignments\AnimalSounds\bin\Debug\AnimalSounds.exe
+D:\Capgemini .NET\Assignments\AnimalSounds\bin\Debug\AnimalSounds.pdb
+D:\Capgemini .NET\Assignments\AnimalSounds\obj\Debug\AnimalSounds.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\AnimalSounds\obj\Debug\AnimalSounds.exe
+D:\Capgemini .NET\Assignments\AnimalSounds\obj\Debug\AnimalSounds.pdb

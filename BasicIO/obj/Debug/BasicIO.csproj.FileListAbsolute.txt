@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\BasicIO\bin\Debug\BasicIO.exe.config
+D:\Capgemini .NET\CSProjects\BasicIO\bin\Debug\BasicIO.exe
+D:\Capgemini .NET\CSProjects\BasicIO\bin\Debug\BasicIO.pdb
+D:\Capgemini .NET\CSProjects\BasicIO\obj\Debug\BasicIO.csproj.AssemblyReference.cache
+D:\Capgemini .NET\CSProjects\BasicIO\obj\Debug\BasicIO.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\BasicIO\obj\Debug\BasicIO.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\BasicIO\obj\Debug\BasicIO.exe
+D:\Capgemini .NET\CSProjects\BasicIO\obj\Debug\BasicIO.pdb

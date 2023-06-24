@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\Person\bin\Debug\Person.exe.config
+D:\Capgemini .NET\Assignments\Person\bin\Debug\Person.exe
+D:\Capgemini .NET\Assignments\Person\bin\Debug\Person.pdb
+D:\Capgemini .NET\Assignments\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\Person\obj\Debug\Person.exe
+D:\Capgemini .NET\Assignments\Person\obj\Debug\Person.pdb

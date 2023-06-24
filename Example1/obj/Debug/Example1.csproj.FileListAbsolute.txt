@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\Example1\obj\Debug\Example1.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\Example1\bin\Debug\Example1.exe.config
+D:\Capgemini .NET\OOP\Example1\bin\Debug\Example1.exe
+D:\Capgemini .NET\OOP\Example1\bin\Debug\Example1.pdb
+D:\Capgemini .NET\OOP\Example1\obj\Debug\Example1.exe
+D:\Capgemini .NET\OOP\Example1\obj\Debug\Example1.pdb

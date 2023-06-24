@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\GST\bin\Debug\GST.exe.config
+D:\Capgemini .NET\Assignments\GST\bin\Debug\GST.exe
+D:\Capgemini .NET\Assignments\GST\bin\Debug\GST.pdb
+D:\Capgemini .NET\Assignments\GST\obj\Debug\GST.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\GST\obj\Debug\GST.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\GST\obj\Debug\GST.exe
+D:\Capgemini .NET\Assignments\GST\obj\Debug\GST.pdb

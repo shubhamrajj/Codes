@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\CompoundInterest\obj\Debug\CompoundInterest.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\CompoundInterest\obj\Debug\CompoundInterest.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+D:\Capgemini .NET\CSProjects\CompoundInterest\bin\Debug\CompoundInterest.exe
+D:\Capgemini .NET\CSProjects\CompoundInterest\bin\Debug\CompoundInterest.pdb
+D:\Capgemini .NET\CSProjects\CompoundInterest\obj\Debug\CompoundInterest.exe
+D:\Capgemini .NET\CSProjects\CompoundInterest\obj\Debug\CompoundInterest.pdb
+D:\Capgemini .NET\CSProjects\CompoundInterest\obj\Debug\CompoundInterest.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\bin\Debug\VirtualDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\bin\Debug\VirtualDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\bin\Debug\VirtualDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\obj\Debug\VirtualDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\obj\Debug\VirtualDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\obj\Debug\VirtualDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\VirtualDemo\obj\Debug\VirtualDemo.pdb

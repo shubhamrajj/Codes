@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\Capgemini .NET\CSProjects\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\DateTime\bin\Debug\DateTime.exe.config
+D:\Capgemini .NET\CSProjects\DateTime\bin\Debug\DateTime.exe
+D:\Capgemini .NET\CSProjects\DateTime\bin\Debug\DateTime.pdb
+D:\Capgemini .NET\CSProjects\DateTime\obj\Debug\DateTime.exe
+D:\Capgemini .NET\CSProjects\DateTime\obj\Debug\DateTime.pdb

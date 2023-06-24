@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\bin\Debug\HellowWorldConsole.exe.config
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\bin\Debug\HellowWorldConsole.exe
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\bin\Debug\HellowWorldConsole.pdb
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\obj\Debug\HellowWorldConsole.csproj.AssemblyReference.cache
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\obj\Debug\HellowWorldConsole.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\obj\Debug\HellowWorldConsole.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\obj\Debug\HellowWorldConsole.exe
+D:\Capgemini .NET\CSProjects\HellowWorldConsole\obj\Debug\HellowWorldConsole.pdb

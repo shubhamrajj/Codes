@@ -1,0 +1,11 @@
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\DemoLibrary\bin\Debug\DemoLibrary.exe.config
+D:\Capgemini .NET\OOP\DemoLibrary\bin\Debug\DemoLibrary.exe
+D:\Capgemini .NET\OOP\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\Capgemini .NET\OOP\DemoLibrary\bin\Debug\Interest.dll
+D:\Capgemini .NET\OOP\DemoLibrary\bin\Debug\Interest.pdb
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.exe
+D:\Capgemini .NET\OOP\DemoLibrary\obj\Debug\DemoLibrary.pdb

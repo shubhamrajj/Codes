@@ -1,0 +1,11 @@
+F:\CapGeminiDotnet\OOPsPrj\Sample1\bin\Debug\Sample1.exe.config
+F:\CapGeminiDotnet\OOPsPrj\Sample1\bin\Debug\Sample1.exe
+F:\CapGeminiDotnet\OOPsPrj\Sample1\bin\Debug\Sample1.pdb
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.exe
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.pdb
+F:\CapGeminiDotnet\OOPsPrj\Sample1\bin\Debug\MyLib.dll
+F:\CapGeminiDotnet\OOPsPrj\Sample1\bin\Debug\MyLib.pdb
+F:\CapGeminiDotnet\OOPsPrj\Sample1\obj\Debug\Sample1.csproj.CopyComplete

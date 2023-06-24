@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\bin\Debug\InheritanceAndCtor.exe.config
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\bin\Debug\InheritanceAndCtor.exe
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\bin\Debug\InheritanceAndCtor.pdb
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\obj\Debug\InheritanceAndCtor.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\obj\Debug\InheritanceAndCtor.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\obj\Debug\InheritanceAndCtor.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\obj\Debug\InheritanceAndCtor.exe
+F:\CapGeminiDotnet\OOPsPrj\InheritanceAndCtor\obj\Debug\InheritanceAndCtor.pdb

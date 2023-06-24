@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "WeaklyTypeForm";
+}
+
+<h2>WeaklyTypeForm</h2>
+<h2>Form with HTML Helper</h2>
+@using(Html.BeginForm())
+{
+<table class="table">
+
+    <tr>
+        <th colspan="2">
+            <h3>Registration form for the courses</h3>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <Lable>NAME :</Lable>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.TetBox("Name")
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <Lable>Choose City :</Lable>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            @Html.DropDownList("City","City")
+        </td>
+    </tr>
+
+
+</table>
+}

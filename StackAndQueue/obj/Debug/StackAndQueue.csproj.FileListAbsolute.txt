@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\bin\Debug\StackAndQueue.exe
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\bin\Debug\StackAndQueue.pdb
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\obj\Debug\StackAndQueue.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\obj\Debug\StackAndQueue.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\obj\Debug\StackAndQueue.exe
+F:\CapGeminiDotnet\OOPsPrj\StackAndQueue\obj\Debug\StackAndQueue.pdb

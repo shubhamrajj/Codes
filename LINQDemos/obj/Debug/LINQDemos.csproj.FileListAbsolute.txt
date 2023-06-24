@@ -1,0 +1,8 @@
+D:\Capgemini .NET\LINQProjects\LINQDemos\bin\Debug\LINQDemos.exe.config
+D:\Capgemini .NET\LINQProjects\LINQDemos\bin\Debug\LINQDemos.exe
+D:\Capgemini .NET\LINQProjects\LINQDemos\bin\Debug\LINQDemos.pdb
+D:\Capgemini .NET\LINQProjects\LINQDemos\obj\Debug\LINQDemos.csproj.AssemblyReference.cache
+D:\Capgemini .NET\LINQProjects\LINQDemos\obj\Debug\LINQDemos.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\LINQProjects\LINQDemos\obj\Debug\LINQDemos.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\LINQProjects\LINQDemos\obj\Debug\LINQDemos.exe
+D:\Capgemini .NET\LINQProjects\LINQDemos\obj\Debug\LINQDemos.pdb

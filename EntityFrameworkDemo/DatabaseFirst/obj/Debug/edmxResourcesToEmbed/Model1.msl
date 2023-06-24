@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CapgDBModelStoreContainer" CdmEntityContainer="CapgDBEntities">
+    <EntitySetMapping Name="tbl_Employee">
+      <EntityTypeMapping TypeName="CapgDBModel.tbl_Employee">
+        <MappingFragment StoreEntitySet="tbl_Employee">
+          <ScalarProperty Name="ecode" ColumnName="ecode" />
+          <ScalarProperty Name="ename" ColumnName="ename" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+          <ScalarProperty Name="deptid" ColumnName="deptid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

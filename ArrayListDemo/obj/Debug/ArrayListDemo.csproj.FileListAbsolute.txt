@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\bin\Debug\ArrayListDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\obj\Debug\ArrayListDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ArrayListDemo\obj\Debug\ArrayListDemo.pdb

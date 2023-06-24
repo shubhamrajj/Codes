@@ -1,0 +1,7 @@
+D:\Capgemini .NET\CSProjects\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\Arrays\bin\Debug\Arrays.exe.config
+D:\Capgemini .NET\CSProjects\Arrays\bin\Debug\Arrays.exe
+D:\Capgemini .NET\CSProjects\Arrays\bin\Debug\Arrays.pdb
+D:\Capgemini .NET\CSProjects\Arrays\obj\Debug\Arrays.exe
+D:\Capgemini .NET\CSProjects\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\bin\Debug\ListDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\bin\Debug\ListDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\bin\Debug\ListDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\obj\Debug\ListDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\obj\Debug\ListDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\obj\Debug\ListDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\ListDemo\obj\Debug\ListDemo.pdb

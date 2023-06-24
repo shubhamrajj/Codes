@@ -1,0 +1,6 @@
+D:\Capgemini .NET\OOP\Interest\obj\Debug\Interest.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\Interest\bin\Debug\Interest.dll
+D:\Capgemini .NET\OOP\Interest\bin\Debug\Interest.pdb
+D:\Capgemini .NET\OOP\Interest\obj\Debug\Interest.dll
+D:\Capgemini .NET\OOP\Interest\obj\Debug\Interest.pdb
+D:\Capgemini .NET\OOP\Interest\obj\Debug\Interest.csproj.AssemblyReference.cache

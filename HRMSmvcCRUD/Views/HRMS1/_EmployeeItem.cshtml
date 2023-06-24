@@ -1,0 +1,32 @@
+﻿@model HRMSmvcCRUD.Models.Employee
+
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Ecode)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Ename)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Salary)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => modelItem.Deptid)
+    </td>
+   @{
+       Html.RenderPartial("_EmpActionView", Model);
+    }
+
+   @*@{
+       var viewStr = @Html.Partial("_xyz");
+       var extraContent = "<h1>Hello</h1>";
+       var finalContent = viewStr.ToHtmlString() + extraContent;
+   }
+
+    <td>
+
+        @finalContent  
+
+    </td>*@
+
+</tr>

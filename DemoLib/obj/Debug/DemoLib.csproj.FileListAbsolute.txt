@@ -1,0 +1,6 @@
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\bin\Debug\DemoLib.dll
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\bin\Debug\DemoLib.pdb
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\obj\Debug\DemoLib.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\obj\Debug\DemoLib.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\obj\Debug\DemoLib.dll
+F:\CapGeminiDotnet\OOPsPrj\DemoLib\obj\Debug\DemoLib.pdb

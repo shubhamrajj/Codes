@@ -1,0 +1,11 @@
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\bin\Debug\StaticDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\bin\Debug\StaticDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\bin\Debug\StaticDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\bin\Debug\MyLib.dll
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\bin\Debug\MyLib.pdb
+F:\CapGeminiDotnet\OOPsPrj\StaticDemo\obj\Debug\StaticDemo.csproj.CopyComplete

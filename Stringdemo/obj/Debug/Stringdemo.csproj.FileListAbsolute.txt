@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\Stringdemo\obj\Debug\Stringdemo.csproj.AssemblyReference.cache
+D:\Capgemini .NET\CSProjects\Stringdemo\obj\Debug\Stringdemo.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\Stringdemo\obj\Debug\Stringdemo.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\Stringdemo\bin\Debug\Stringdemo.exe.config
+D:\Capgemini .NET\CSProjects\Stringdemo\bin\Debug\Stringdemo.exe
+D:\Capgemini .NET\CSProjects\Stringdemo\bin\Debug\Stringdemo.pdb
+D:\Capgemini .NET\CSProjects\Stringdemo\obj\Debug\Stringdemo.exe
+D:\Capgemini .NET\CSProjects\Stringdemo\obj\Debug\Stringdemo.pdb

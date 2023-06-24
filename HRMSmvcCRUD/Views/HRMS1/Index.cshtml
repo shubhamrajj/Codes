@@ -1,0 +1,40 @@
+﻿@model IEnumerable<HRMSmvcCRUD.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+    //Layout = null;
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ecode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Salary)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Deptid)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    Html.RenderPartial("_EmployeeItem", item);
+}
+
+</table>
+
+@section s1
+{
+    <h3>This is my Home Page</h3>
+    <hr color="red" />
+} 

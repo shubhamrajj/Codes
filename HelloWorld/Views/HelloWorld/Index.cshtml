@@ -1,0 +1,56 @@
+﻿@model HelloWorld.Models.Employee
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>This is my First ASP.Net MVC project</h2>
+
+@*Ecode=@Model.Ecode<br/>
+    Ename=@Model.Ename<br />
+    Salary=@Model.Salary<br />
+    DeptID=@Model.Deptid<br />*@
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ecode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ecode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ename)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ename)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salary)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Deptid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Deptid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+

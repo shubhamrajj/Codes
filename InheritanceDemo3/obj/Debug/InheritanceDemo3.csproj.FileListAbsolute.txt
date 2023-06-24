@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\bin\Debug\InheritanceDemo3.exe.config
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\bin\Debug\InheritanceDemo3.exe
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\bin\Debug\InheritanceDemo3.pdb
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\obj\Debug\InheritanceDemo3.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\obj\Debug\InheritanceDemo3.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\obj\Debug\InheritanceDemo3.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\obj\Debug\InheritanceDemo3.exe
+F:\CapGeminiDotnet\OOPsPrj\InheritanceDemo3\obj\Debug\InheritanceDemo3.pdb

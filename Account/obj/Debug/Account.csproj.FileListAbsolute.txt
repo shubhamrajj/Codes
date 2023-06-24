@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\Account\bin\Debug\Account.exe.config
+D:\Capgemini .NET\Assignments\Account\bin\Debug\Account.exe
+D:\Capgemini .NET\Assignments\Account\bin\Debug\Account.pdb
+D:\Capgemini .NET\Assignments\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\Account\obj\Debug\Account.exe
+D:\Capgemini .NET\Assignments\Account\obj\Debug\Account.pdb

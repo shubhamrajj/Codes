@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\bin\Debug\NMSPDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\bin\Debug\NMSPDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\bin\Debug\NMSPDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\obj\Debug\NMSPDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\obj\Debug\NMSPDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\obj\Debug\NMSPDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\obj\Debug\NMSPDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\NMSPDemo\obj\Debug\NMSPDemo.pdb

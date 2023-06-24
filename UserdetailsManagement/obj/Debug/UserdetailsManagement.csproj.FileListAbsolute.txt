@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\UserdetailsManagement\bin\Debug\UserdetailsManagement.exe.config
+D:\Capgemini .NET\Assignments\UserdetailsManagement\bin\Debug\UserdetailsManagement.exe
+D:\Capgemini .NET\Assignments\UserdetailsManagement\bin\Debug\UserdetailsManagement.pdb
+D:\Capgemini .NET\Assignments\UserdetailsManagement\obj\Debug\UserdetailsManagement.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\UserdetailsManagement\obj\Debug\UserdetailsManagement.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\UserdetailsManagement\obj\Debug\UserdetailsManagement.exe
+D:\Capgemini .NET\Assignments\UserdetailsManagement\obj\Debug\UserdetailsManagement.pdb

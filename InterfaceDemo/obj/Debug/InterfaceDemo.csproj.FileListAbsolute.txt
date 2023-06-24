@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

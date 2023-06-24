@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\People\bin\Debug\People.exe.config
+D:\Capgemini .NET\OOP\People\bin\Debug\People.exe
+D:\Capgemini .NET\OOP\People\bin\Debug\People.pdb
+D:\Capgemini .NET\OOP\People\obj\Debug\People.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\People\obj\Debug\People.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\People\obj\Debug\People.exe
+D:\Capgemini .NET\OOP\People\obj\Debug\People.pdb

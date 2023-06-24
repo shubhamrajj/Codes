@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "WeaklyTypeForm";
+}
+
+<h2>Form without HTML helper</h2>
+
+<form action="/HRMS1/Display" method="post">
+    <table class="table">
+        <tr>
+            <th colspan="2"><h3>Registration form for the course</h3></th>
+        </tr>
+        <tr>
+            <td>Name :</td>
+            <td>
+                <input type="text" name="Name" />
+            </td>
+        </tr>
+        <tr>
+            <td>Choose City :</td>
+            <td>
+                <select name="City">
+                    <option value="CHN">Chennai</option>
+                    <option value="KOL">Kolakata</option>
+                    <option value="BLR">Bangalore</option>
+                    <option value="DLH">Delhi</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Choose Courses :</td>
+            <td>
+                <select name="Courses" size="4" multiple>
+                    <option value="OCA">OCA</option>
+                    <option value="PMP">PMP</option>
+                    <option value="SCJP">SCJP</option>
+                    <option value="MCTS">MCTS</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Date :</td>
+            <td>
+                <input type="date" name="Date_Of_Enrollment" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </td>
+            <td>
+               @if(ViewData["msg"]!=null)
+            {
+                <label>@ViewData["msg"].ToString()</label>
+            }
+            </td>
+        </tr>
+
+
+
+    </table>
+
+
+</form>
+

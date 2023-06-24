@@ -1,0 +1,11 @@
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\bin\Debug\ConsumerConsoleApp.exe.config
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\bin\Debug\ConsumerConsoleApp.exe
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\bin\Debug\ConsumerConsoleApp.pdb
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\bin\Debug\DemoLib.dll
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\bin\Debug\DemoLib.pdb
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.csproj.CopyComplete
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.exe
+F:\CapGeminiDotnet\OOPsPrj\ConsumerConsoleApp\obj\Debug\ConsumerConsoleApp.pdb

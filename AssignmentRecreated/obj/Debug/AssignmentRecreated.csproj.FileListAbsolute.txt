@@ -1,0 +1,7 @@
+D:\Capgemini .NET\OOP\AssignmentRecreated\bin\Debug\AssignmentRecreated.exe.config
+D:\Capgemini .NET\OOP\AssignmentRecreated\bin\Debug\AssignmentRecreated.exe
+D:\Capgemini .NET\OOP\AssignmentRecreated\bin\Debug\AssignmentRecreated.pdb
+D:\Capgemini .NET\OOP\AssignmentRecreated\obj\Debug\AssignmentRecreated.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\AssignmentRecreated\obj\Debug\AssignmentRecreated.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\AssignmentRecreated\obj\Debug\AssignmentRecreated.exe
+D:\Capgemini .NET\OOP\AssignmentRecreated\obj\Debug\AssignmentRecreated.pdb

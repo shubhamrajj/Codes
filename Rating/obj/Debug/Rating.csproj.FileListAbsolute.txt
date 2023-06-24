@@ -1,0 +1,8 @@
+D:\Capgemini .NET\CSProjects\Rating\obj\Debug\Rating.csproj.AssemblyReference.cache
+D:\Capgemini .NET\CSProjects\Rating\obj\Debug\Rating.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\CSProjects\Rating\obj\Debug\Rating.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\CSProjects\Rating\bin\Debug\Rating.exe.config
+D:\Capgemini .NET\CSProjects\Rating\bin\Debug\Rating.exe
+D:\Capgemini .NET\CSProjects\Rating\bin\Debug\Rating.pdb
+D:\Capgemini .NET\CSProjects\Rating\obj\Debug\Rating.exe
+D:\Capgemini .NET\CSProjects\Rating\obj\Debug\Rating.pdb

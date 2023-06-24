@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\bin\Debug\Lab_OutstandingPerson.exe.config
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\bin\Debug\Lab_OutstandingPerson.exe
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\bin\Debug\Lab_OutstandingPerson.pdb
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\obj\Debug\Lab_OutstandingPerson.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\obj\Debug\Lab_OutstandingPerson.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\obj\Debug\Lab_OutstandingPerson.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\obj\Debug\Lab_OutstandingPerson.exe
+F:\CapGeminiDotnet\OOPsPrj\Lab_OutstandingPerson\obj\Debug\Lab_OutstandingPerson.pdb

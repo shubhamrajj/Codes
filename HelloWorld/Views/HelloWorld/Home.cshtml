@@ -1,0 +1,31 @@
+﻿@using HelloWorld.Models
+@{
+    ViewBag.Title = "Home";
+    var emp = (Employee)ViewData["empObj"];
+}
+
+<h2>Home</h2>
+
+<h3>@ViewData["Message"].ToString()</h3>
+<table class="table table-hover">
+    <tr>
+        <th>EmpCode</th>
+        <th>@emp.Ecode</th>
+    </tr>
+    <tr>
+        <th>EmpName</th>
+        <th>@emp.Ename</th>
+    </tr>
+    <tr>
+        <th>Salary</th>
+        <th>@emp.Salary</th>
+    </tr>
+    <tr>
+        <th>DeptID</th>
+        <th>@emp.Deptid</th>
+    </tr>
+</table>
+<button class="btn btn-primary">Primary</button>
+<button class="btn btn-success">Success</button>
+<button class="btn btn-warning">Warning</button>
+<button class="btn btn-danger">Danger</button>

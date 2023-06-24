@@ -1,0 +1,6 @@
+F:\CapGeminiDotnet\OOPsPrj\MyLib\bin\Debug\MyLib.dll
+F:\CapGeminiDotnet\OOPsPrj\MyLib\bin\Debug\MyLib.pdb
+F:\CapGeminiDotnet\OOPsPrj\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\MyLib\obj\Debug\MyLib.dll
+F:\CapGeminiDotnet\OOPsPrj\MyLib\obj\Debug\MyLib.pdb

@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\Marks\bin\Debug\Marks.exe.config
+D:\Capgemini .NET\Assignments\Marks\bin\Debug\Marks.exe
+D:\Capgemini .NET\Assignments\Marks\bin\Debug\Marks.pdb
+D:\Capgemini .NET\Assignments\Marks\obj\Debug\Marks.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\Marks\obj\Debug\Marks.exe
+D:\Capgemini .NET\Assignments\Marks\obj\Debug\Marks.pdb

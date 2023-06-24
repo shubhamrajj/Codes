@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\VistualMethodEat\bin\Debug\VistualMethodEat.exe.config
+D:\Capgemini .NET\Assignments\VistualMethodEat\bin\Debug\VistualMethodEat.exe
+D:\Capgemini .NET\Assignments\VistualMethodEat\bin\Debug\VistualMethodEat.pdb
+D:\Capgemini .NET\Assignments\VistualMethodEat\obj\Debug\VistualMethodEat.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\VistualMethodEat\obj\Debug\VistualMethodEat.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\VistualMethodEat\obj\Debug\VistualMethodEat.exe
+D:\Capgemini .NET\Assignments\VistualMethodEat\obj\Debug\VistualMethodEat.pdb

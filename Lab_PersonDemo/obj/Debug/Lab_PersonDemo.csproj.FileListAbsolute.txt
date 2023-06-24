@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\bin\Debug\Lab_PersonDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\bin\Debug\Lab_PersonDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\bin\Debug\Lab_PersonDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\obj\Debug\Lab_PersonDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\obj\Debug\Lab_PersonDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\obj\Debug\Lab_PersonDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\obj\Debug\Lab_PersonDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\Lab_PersonDemo\obj\Debug\Lab_PersonDemo.pdb

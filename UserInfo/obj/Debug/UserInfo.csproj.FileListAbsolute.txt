@@ -1,0 +1,7 @@
+D:\Capgemini .NET\Assignments\UserInfo\bin\Debug\UserInfo.exe.config
+D:\Capgemini .NET\Assignments\UserInfo\bin\Debug\UserInfo.exe
+D:\Capgemini .NET\Assignments\UserInfo\bin\Debug\UserInfo.pdb
+D:\Capgemini .NET\Assignments\UserInfo\obj\Debug\UserInfo.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\Assignments\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\Assignments\UserInfo\obj\Debug\UserInfo.exe
+D:\Capgemini .NET\Assignments\UserInfo\obj\Debug\UserInfo.pdb

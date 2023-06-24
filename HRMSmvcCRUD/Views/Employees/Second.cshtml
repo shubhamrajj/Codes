@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Second";
+    TempData.Keep("X");
+}
+
+<h2>Second</h2>
+
+<h3>X=@TempData["X"].ToString()</h3>
+<h3>Session Y=@Session["Y"].ToString()</h3>
+@Html.ActionLink("Goto Department","Index","Department")

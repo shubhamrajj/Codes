@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\InheritingDemo\obj\Debug\InheritingDemo.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\InheritingDemo\obj\Debug\InheritingDemo.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\InheritingDemo\obj\Debug\InheritingDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\InheritingDemo\bin\Debug\InheritingDemo.exe.config
+D:\Capgemini .NET\OOP\InheritingDemo\bin\Debug\InheritingDemo.exe
+D:\Capgemini .NET\OOP\InheritingDemo\bin\Debug\InheritingDemo.pdb
+D:\Capgemini .NET\OOP\InheritingDemo\obj\Debug\InheritingDemo.exe
+D:\Capgemini .NET\OOP\InheritingDemo\obj\Debug\InheritingDemo.pdb

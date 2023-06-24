@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\ex\bin\Debug\ex.exe.config
+D:\Capgemini .NET\OOP\ex\bin\Debug\ex.exe
+D:\Capgemini .NET\OOP\ex\bin\Debug\ex.pdb
+D:\Capgemini .NET\OOP\ex\obj\Debug\ex.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\ex\obj\Debug\ex.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\ex\obj\Debug\ex.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\ex\obj\Debug\ex.exe
+D:\Capgemini .NET\OOP\ex\obj\Debug\ex.pdb

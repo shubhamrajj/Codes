@@ -1,0 +1,8 @@
+D:\Capgemini .NET\OOP\AccountDetails\bin\Debug\AccountDetails.exe.config
+D:\Capgemini .NET\OOP\AccountDetails\bin\Debug\AccountDetails.exe
+D:\Capgemini .NET\OOP\AccountDetails\bin\Debug\AccountDetails.pdb
+D:\Capgemini .NET\OOP\AccountDetails\obj\Debug\AccountDetails.csproj.AssemblyReference.cache
+D:\Capgemini .NET\OOP\AccountDetails\obj\Debug\AccountDetails.csproj.SuggestedBindingRedirects.cache
+D:\Capgemini .NET\OOP\AccountDetails\obj\Debug\AccountDetails.csproj.CoreCompileInputs.cache
+D:\Capgemini .NET\OOP\AccountDetails\obj\Debug\AccountDetails.exe
+D:\Capgemini .NET\OOP\AccountDetails\obj\Debug\AccountDetails.pdb

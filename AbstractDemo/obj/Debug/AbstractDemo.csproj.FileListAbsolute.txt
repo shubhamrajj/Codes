@@ -1,0 +1,8 @@
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\bin\Debug\AbstractDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\bin\Debug\AbstractDemo.pdb
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\obj\Debug\AbstractDemo.csproj.AssemblyReference.cache
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\obj\Debug\AbstractDemo.csproj.SuggestedBindingRedirects.cache
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\obj\Debug\AbstractDemo.exe
+F:\CapGeminiDotnet\OOPsPrj\AbstractDemo\obj\Debug\AbstractDemo.pdb
